@@ -1,0 +1,5 @@
+config內容參考
+https://yohey66.wordpress.com/2018/08/07/net-%E8%BC%95%E9%AC%86%E4%B8%8A%E6%89%8Blog4net/
+
+實際應用
+https://dotblogs.com.tw/jakeuj/2021/01/13/Log4Net
